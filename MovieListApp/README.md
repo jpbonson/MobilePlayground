@@ -4,13 +4,14 @@ Android application that lists the upcoming movies using the TMDb API.
 
 Android Studio. API 19 (Android 4.4).
 
-### Third-Party Libraries
+### Screenshots
 
-Ion: https://github.com/koush/ion
-What?
-- Provides asynchronous image loading
-How?
-- To load the movie posters given an URL
-Why?
-- the native option with few lines of code wasn't asynchronous
-- the native option that was asynchronous would take too many lines of code, so I would rather avoid reinventing the wheel
+![alt tag](https://github.com/jpbonson/MobilePlayground/blob/master/MovieListApp/screenshots/app_and_ide.png)
+
+![alt tag](https://github.com/jpbonson/MobilePlayground/blob/master/MovieListApp/screenshots/app_error.png)
+
+![alt tag](https://github.com/jpbonson/MobilePlayground/blob/master/MovieListApp/screenshots/loading_movies.png)
+
+![alt tag](https://github.com/jpbonson/MobilePlayground/blob/master/MovieListApp/screenshots/movie_details.png)
+
+![alt tag](https://github.com/jpbonson/MobilePlayground/blob/master/MovieListApp/screenshots/on_phone1.jpg)
