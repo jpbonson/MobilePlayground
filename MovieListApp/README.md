@@ -2,7 +2,7 @@
 
 Android application that lists the upcoming movies using the TMDb API.
 
-Android Studio. API 19 (Android 4.4).
+Java. Android Studio. API 19 (Android 4.4).
 
 ### TODOs
 
